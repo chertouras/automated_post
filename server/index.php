@@ -162,6 +162,6 @@ $( document ).ready(function() {
 
 	  </script>
 
-    
+   Δημιουργία: <a href="http://users.sch.gr/chertour/" target="new">Kωνσταντίνος Χερτούρας </a> - Καθηγητής Πληροφορικής - ΕΠΑΛ Ροδόπολης Σερρών --- chertour at sch.gr  
    </body>
 </html>
